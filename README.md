@@ -13,6 +13,30 @@ webpage containing the resume, along with formatting instructions.
 - A markdown editor (this tutorial used [Visual Studio Code](https://code.visualstudio.com/) along with the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extension)
 - A GitHub account
 
+## Preface: Etter's General Principles
+Andrew Etter is a documentation team manager at Google, and author of Modern Technical Writing. Within his book (see more resources) he provides
+various protocols and principles that documentation development should try to follow. The following protocols/principles had an influence on the creation process
+of this README:
+- Style
+    - Prioritize being consistent within any piece of writing you work on. This includes matching title cases, the use of special terms, as well as the overall
+    organization of your document.
+    - Bias yourself towards using headers, tables, lists, diagrams, and images. Proper use of these elements tends to produce a much more readable document while
+    also making it more desirable to read. Having proper organization structures is imperative for documentation, as people will refer to the documentation in hopes
+    of finding solid, concrete, and objective answers.
+- Catalog the Diff (Version Control)
+    - Keeping track of the history of your documents (see the commit history of this repository for an example) helps in a multitude of ways. First and foremost,
+    having version control allows changes to be reverted should a document be changed for the worse. Secondly, version control can be combined with website traffic
+    analyses to determine which changes were the most effective. For documentation of something like a programming library, proper version control will allow the
+    users to make informed decisions regarding which version of the software they would like to use.
+- Build a Website
+    - While many people/businesses distribute pdf's and other text document files, Etter recommends that websites should be constructed that will host various
+    documents. Rather than having to re-email copies of updated documentation, hosting the document on a website will allow readers to use the same link they had
+    received previously to read the updated documentation.
+- Use Lightweight Markup
+    - Writing documents in a lightweight markup language helps to ensure that even the raw text is readable from a human perspective. To further highlight the
+    importance of this, open a new Google tab and search "raw XML". Raw XML is incredibly far from being an easy read, whereas Markdown barely disturbs the raw
+    text. While XML is very useful for webpages, writing the document in Markdown should be the go-to choice, as Markdown can be converted to XML easily.  
+
 ## Instructions
 
 ### Hosting Your Resume on GitHub Pages
