@@ -72,6 +72,16 @@ Viewing your resume on GitHub Pages is simple as long as you satisfy these requi
 When the above requirements are met, you can enter *username*.github.io into your browser to view your website. You can see an example of viewing a GitHub pages website below  
 ![GitHub Pages Website Gif](https://i.imgur.com/GXibCNi.gif)
 
+### Changing Your Jekyll Theme
+Follow the steps below to change the Jekyll theme used on your static website:
+1. Go to your repository main page on GitHub
+2. Click on the "Settings" button (near the top middle)
+3. Click on the "Pages" tab (under "Code and automation") in the menu on the left edge
+4. Click on the "Change theme" button from the GitHub pages settings
+5. View the available options and click on the one you want
+6. Click on the green "Select theme" button  
+**Note**: You do not need to update your \_config.yml file as it will be updated automatically  
+
 ## More Resources
 Below are several resources that you can (and should!) utilize:
 - A good [Markdown tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
