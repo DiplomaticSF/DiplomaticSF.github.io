@@ -52,7 +52,7 @@ When the above requirements are met, you can enter *username*.github.io into you
 Below are several resources that you can (and should!) utilize:
 - A good [Markdown tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Learn more about technical writing with Andrew Etter's [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-- AOPSDIASP"ODI **Add a third resource here**
+- A [Jekyll tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/) that goes more in-depth
 
 ## Authors and Acknowledgements
 - Thanks to Ben Balter (and [contributors](https://github.com/pages-themes/slate/graphs/contributors)) for creating the Slate theme used in this tutorial
@@ -60,6 +60,17 @@ Below are several resources that you can (and should!) utilize:
 
 ## FAQ
 - Why is Markdown better than a word processor?
+    - Markdown provides much more versatility than applications such as Microsoft Word. While MS Word has a wide variety of features and tools, writers often find
+    themselves taking their hands off the keyboard to use their mouse to find a specific feature within the mess of toolbars. With Markdown, all supported
+    formatting can be done using the keyboard. There are also other benefits to using Markdown, some of which include:
+        - File size: Fully formatted MS Word documents can become quite large when compared to a fully-formatted markdown file
+        - Editing: While most people will want an actual markdown editor for their editing, those who are familiar with markdown syntax can edit files
+        on any text editor application.
+        - Version control: Merging changes/files with Markdown is much easier than files from Word processors. This advantage makes Markdown a much better suited
+        choice for any documents that will be collaborated on.
+        - Simplicity: With all the toolbars and features in applications such as MS Word, the "writers flow" can often be interrupted when searching for various
+        formatting tools. With Markdown, formatting functionality is more limited but implemented within the text of the document itself, minimizing the
+        interruptions that may typically be encountered.
 - I updated my resume, why can't I see the changes?
     - If you updated the contents of your index.md file and committed the changes and cannot see them on the static website, just wait! 
     Github can take several minutes to display new changes when viewed from a static website. If problems persist after 10 minutes, check the
