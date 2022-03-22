@@ -99,12 +99,3 @@ Below are several resources that you can (and should!) utilize:
     - If you updated the contents of your index.md file and committed the changes and cannot see them on the static website, just wait! 
     Github can take several minutes to display new changes when viewed from a static website. If problems persist after 10 minutes, check the
     website from a different device and contact GitHub support if necessary.
-
-**Audience Analysis (To be done in assignment2 submission box)**
-Audience: CS Student
-Venue: README in GitHub Pages
-Purpose: Explain how to host a resume on GitHub Pages.
-Additional Purpose: Introduce and demonstrate the principles of Andrew Etter's book Modern Technical Writing
-Desired Reaction: Reader (meeting the preprequisites) gains the ability to upload, format, and host a resume using GitHub Pages without requiring external help
-Vocabulary: Technical
-Tone: Objective, informative, instructional
