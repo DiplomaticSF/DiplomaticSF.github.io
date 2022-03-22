@@ -65,6 +65,17 @@ of this README:
     5. At the bottom of the page, write a brief description, and click "Commit new file"
         - E.g., "Added configuration file for jekyll theme"
 
+#### Possible Source of Error
+If you cannot get your static website to work, do the following and verify your settings:
+1. Go to your repository main page on GitHub
+2. Click on the "Settings" button (near the top middle)
+3. Click on the "Pages" tab (under "Code and automation") in the menu on the left edge
+4. Under the "Source" sub-heading:
+    1. Ensure the first drop-down (the source branch for GitHub pages to use) is set to **main**
+        - The source needs to be set to the branch containing your files, it isn't necessarily named main
+    2. Ensure the second drop-down (the source folder) is set to **/root**
+    3. If you had to change either of the settings, click on the "save" button to the right
+
 ### Viewing Your Resume on GitHub Pages
 Viewing your resume on GitHub Pages is simple as long as you satisfy these requirements:  
 1. The name of your repository containing your resume follows the format *username*.github.io
