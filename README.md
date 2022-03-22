@@ -10,7 +10,7 @@ webpage containing the resume, along with formatting instructions.
 
 ## Prerequisites
 - Markdown-formatted resume
-- A markdown editor (this tutorial will use [Visual Studio Code](https://code.visualstudio.com/) along with the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extension)
+- A markdown editor (this tutorial used [Visual Studio Code](https://code.visualstudio.com/) along with the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extension)
 - A GitHub account
 
 ## Instructions
