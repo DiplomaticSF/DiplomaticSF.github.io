@@ -45,7 +45,7 @@ webpage containing the resume, along with formatting instructions.
 Viewing your resume on GitHub Pages is simple as long as you satisfy these requirements:  
 1. The name of your repository containing your resume follows the format *username*.github.io
 2. The markdown file that is your resume is named index.md
-When the above requirements are met, you can enter *username*.github.io into your browser to view your website. You can see an example of viewing a GitHub pages website below
+When the above requirements are met, you can enter *username*.github.io into your browser to view your website. You can see an example of viewing a GitHub pages website below  
 ![GitHub Pages Website Gif](https://i.imgur.com/GXibCNi.gif)
 
 ## More Resources
